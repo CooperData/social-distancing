@@ -46,5 +46,10 @@ You are now ready to get started with the started notebook.
 jupyter lab
 ```
 
+Use the notebook Start Here.ipynb which to test your system is working correctly.
+
+# Important:
+Make sure as you commit to the remote git repo that none of your file are including the api key.
+You can do so by running the file find_key.
 
 Author: Cesar Hernandez 
