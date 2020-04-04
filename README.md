@@ -10,7 +10,7 @@ Clone the source locally:
 
 ```sh
 $ git clone git@github.com:CooperData/social-distancing.git
-$ cd soaicl-distancing
+$ cd social-distancing
 ```
 
 For simplicity you might want to install 
@@ -37,7 +37,7 @@ $ make requirements
 Copy the file .env-example and renamed the copied file to .env, The file should have the variable `API_KEY` example:
 
 ```sh
-`API_KEY=************************************************************
+`API_KEY=************************************************************`
 ```
 
 You are now ready to get started with the started notebook.
